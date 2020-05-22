@@ -1,4 +1,4 @@
-print("I can do it everthing")
+print("I can do it everything")
 print("What can i do for you")
 print("God bless you")
 print("I am a Best")
